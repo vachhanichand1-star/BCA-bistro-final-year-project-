@@ -70,15 +70,3 @@ http://localhost/bca-bistro
 ## Author
 
 Chand Vachhani
-
-```
-
-### How to add
-GitHub repo → **Add file** → **Create new file** → name it:
-
-`README.md`
-
-Paste this → Commit changes.
-
-This will make your repo look much more legit.
-```
