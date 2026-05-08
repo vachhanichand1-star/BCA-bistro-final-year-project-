@@ -59,10 +59,6 @@ C:/xampp/htdocs/
 http://localhost/bca-bistro
 ```
 
-## Screenshots
-
-Add project screenshots here.
-
 ## Future Improvements
 
 * User authentication system
